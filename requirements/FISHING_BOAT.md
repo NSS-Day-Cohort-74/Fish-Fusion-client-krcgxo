@@ -10,7 +10,7 @@ Time to set up the fishing boat. First, you need to think about your data struct
     1. Price _(prices range from $3.00 to $10.00 per fish)_
     1. Amount _(how many of this species were caught today)_
 
-Open your `fishingBoat.js` module and define a function that the other modules can invoke in order to see today's catch.
+<!-- Open your `fishingBoat.js` module and define a function that the other modules can invoke in order to see today's catch. -->
 
 * This function must be defined as the value of a variable named `boatInventory`.
 * The array of fish objects will be the return value when the function is invoked _(see data below)_.
